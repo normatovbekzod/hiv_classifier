@@ -9,11 +9,6 @@ import os
 app = Flask(__name__)
 model = pickle.load(open('model.pkl', 'rb'))
 
-# url/
-@app.route('/')
-def index():
-    return render_template('index.html')
-
 # Create a dictionary with all column names set to False
 
 categories = ['age_1(15-17)',
@@ -43,6 +38,11 @@ other_features = ['gender', 'partner_count', 'condom_use_last_month', 'awareness
 
 columns_order = other_features + categories
 
+# url/
+@app.route('/')
+def index():
+    return render_template('index.html')
+
 @app.route('/predict', methods = ['GET', 'POST'])
 def predict(): 
     for cat_feature in cat_features:
@@ -55,7 +55,7 @@ def predict():
     df = pd.DataFrame([cat_status])
     df = df[columns_order]
     hiv_test_pred = model.predict(df)
-    return render_template('index.html', prediction_text = f'Your chance of being at risk:{hiv_test_pred}')
+    return render_template('after.html', data=hiv_test_pred)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Result of your survey submission</title>
+</head>
+<body bgcolor="green">
+    
+    <center>
+        {%if data == [0]%}
+        <h1> <br> Good news! You are not at risk of being HIV positive</h1>
+
+        {%else%}
+        <h1> <br>The result of the survey indicates that you are at risk of being HIV positive</h1> 
+        <h1> <br>Please get tested immediately!</h1> 
+
+        {%endif%}
+
+            <br><br>
+
+        <a href='/'>go back to home page</a>
+
+    </center>
+
+
+
+</body>
+</html>
