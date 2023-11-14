@@ -5,8 +5,6 @@ import pandas as pd
 from sklearn.preprocessing import OneHotEncoder
 import os
 
-port = int(os.environ.get("PORT", 5000))
-app.run(host="0.0.0.0", port=port)
  # Create an object of the class Flask
 
 app = Flask(__name__)
@@ -60,5 +58,7 @@ def predict():
     hiv_test_pred = model.predict(df)
     return render_template('index.html', prediction_text = f'Your chance of being at risk:{hiv_test_pred}')
 
-if __name__=='__main__':
-    app.run(debug=True)
+
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
