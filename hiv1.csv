@@ -1,0 +1,1001 @@
+gender,age,occupation,partner_count,condom_use_last_month,location,marital_status,educational_level,awareness_of_hiv,sex_last_month,drug_use,std_last_year,commercial_sex_last_year,hiv_test_last_year,hiv_test_result
+M,3(29-40),unemployed,1,no,Bukhara region,married,college or above,yes,no,no,no,no,yes,0
+M,4(41-48),other,1,no,Tashkent city,married,college or above,no,no,no,no,no,yes,0
+F,2(18-28),healthcare worker,1,yes,Ferghana region,cohabitation,middle school,yes,yes,no,no,no,yes,0
+F,2(18-28),other,2,no,Tashkent region,married,high school or lyceum,yes,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,no,Tashkent city,married,high school or lyceum,yes,no,no,no,no,no,0
+F,2(18-28),other,1,yes,Samarkand region,married,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),other,5,yes,Samarkand region,married,high school or lyceum,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,yes,Khorezm region,married,college or above,yes,no,no,no,no,no,0
+M,3(29-40),unemployed,1,yes,Tashkent region,married,college or above,no,yes,no,no,no,no,0
+F,2(18-28),other,2,yes,Surkhandarya region,married,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),unemployed,1,yes,Syrdarya region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,no,Tashkent city,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,3(29-40),sex worker,4,yes,Syrdarya region,married,middle school,yes,yes,no,yes,yes,yes,0
+F,2(18-28),other,1,no,Tashkent region,married,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),unemployed,1,no,Syrdarya region,married,middle school,yes,yes,no,no,no,yes,0
+M,2(18-28),other,1,no,Kashkadarya region,married,college or above,yes,no,no,no,no,no,1
+F,3(29-40),other,1,no,Tashkent region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,2,yes,Surkhandarya region,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),other,1,yes,Andijan region,married,middle school,yes,yes,no,no,no,no,0
+F,2(18-28),healthcare worker,1,no,Tashkent region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),other,1,yes,Tashkent city,married,college or above,yes,no,yes,no,no,no,0
+F,3(29-40),healthcare worker,1,no,Syrdarya region,married,high school or lyceum,yes,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,yes,Andijan region,married,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,no,Khorezm region,married,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),other,2,no,Tashkent region,married,high school or lyceum,yes,yes,no,no,no,no,0
+F,2(18-28),other,1,yes,Tashkent region,married,college or above,yes,no,no,no,no,yes,0
+F,4(41-48),other,1,no,Tashkent city,married,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),sex worker,4,yes,Surkhandarya region,married,college or above,yes,yes,no,no,yes,no,0
+M,3(29-40),unemployed,1,yes,Andijan region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,yes,Republic of Karakalpakstan,married,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),other,1,yes,Khorezm region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,1,yes,Ferghana region,married,high school or lyceum,no,no,no,no,no,yes,0
+M,2(18-28),healthcare worker,1,no,Tashkent region,divorced or widowed,college or above,no,no,no,no,no,yes,0
+M,2(18-28),healthcare worker,1,no,Andijan region,cohabitation,middle school,yes,no,no,no,no,no,0
+F,3(29-40),other,1,yes,Syrdarya region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),unemployed,1,no,Tashkent region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,no,Tashkent region,divorced or widowed,college or above,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,yes,Tashkent city,married,college or above,yes,yes,no,no,no,no,0
+M,3(29-40),other,1,no,Khorezm region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,3(29-40),other,1,no,Tashkent region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,2,no,Jizzakh region,married,primary school,yes,no,no,no,no,no,0
+M,2(18-28),unemployed,1,yes,Khorezm region,divorced or widowed,high school or lyceum,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,yes,Khorezm region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+F,2(18-28),healthcare worker,1,no,Andijan region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),healthcare worker,1,no,Ferghana region,divorced or widowed,college or above,yes,yes,no,no,no,yes,0
+M,3(29-40),sex worker,3,yes,Navoi region,married,college or above,yes,yes,no,no,yes,no,0
+F,2(18-28),other,1,no,Tashkent city,unmarried,high school or lyceum,yes,yes,no,no,no,yes,0
+F,3(29-40),healthcare worker,1,no,Andijan region,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),unemployed,2,no,Ferghana region,married,high school or lyceum,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,no,Surkhandarya region,unmarried,middle school,yes,yes,no,no,no,yes,0
+M,3(29-40),other,1,no,Andijan region,married,middle school,yes,no,no,no,no,no,0
+F,2(18-28),healthcare worker,1,no,Tashkent region,divorced or widowed,high school or lyceum,yes,no,no,no,no,yes,0
+M,2(18-28),healthcare worker,1,yes,Ferghana region,unmarried,college or above,yes,yes,no,no,no,no,0
+M,3(29-40),other,1,no,Tashkent region,married,college or above,yes,no,no,no,no,no,0
+F,2(18-28),sex worker,2,yes,Tashkent city,married,middle school,yes,yes,no,yes,yes,no,0
+F,3(29-40),healthcare worker,1,yes,Tashkent city,married,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,1,no,Tashkent city,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),healthcare worker,1,yes,Samarkand region,unmarried,college or above,yes,no,no,no,no,no,0
+M,2(18-28),unemployed,1,no,Khorezm region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),healthcare worker,1,yes,Tashkent city,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,yes,Tashkent region,cohabitation,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,1,no,Tashkent region,married,high school or lyceum,yes,yes,no,no,no,no,0
+F,3(29-40),unemployed,1,yes,Ferghana region,married,college or above,yes,no,no,no,yes,no,0
+F,3(29-40),other,1,yes,Syrdarya region,married,middle school,yes,no,no,no,no,no,0
+F,3(29-40),other,2,yes,Andijan region,cohabitation,college or above,yes,no,no,no,no,no,1
+F,3(29-40),healthcare worker,1,no,Navoi region,married,college or above,yes,no,no,no,no,no,0
+F,4(41-48),other,1,no,Khorezm region,married,college or above,no,yes,no,no,no,no,0
+M,4(41-48),healthcare worker,1,no,Jizzakh region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),other,1,yes,Navoi region,married,high school or lyceum,yes,yes,no,no,yes,yes,0
+M,2(18-28),other,1,no,Khorezm region,married,middle school,yes,no,no,yes,no,no,0
+F,2(18-28),other,1,no,Tashkent city,married,high school or lyceum,yes,no,no,no,no,no,0
+F,3(29-40),unemployed,1,no,Khorezm region,married,college or above,yes,yes,no,no,no,yes,0
+F,3(29-40),healthcare worker,1,yes,Ferghana region,married,college or above,yes,no,no,no,no,no,0
+F,5(49-55),healthcare worker,1,no,Syrdarya region,married,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),healthcare worker,1,no,Republic of Karakalpakstan,cohabitation,college or above,yes,no,yes,no,no,yes,0
+F,3(29-40),other,1,no,Khorezm region,married,college or above,no,no,no,no,no,yes,0
+M,3(29-40),healthcare worker,1,yes,Namangan region,married,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,yes,Andijan region,divorced or widowed,middle school,yes,no,no,no,no,no,0
+F,4(41-48),other,1,yes,Ferghana region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+F,3(29-40),other,1,no,Khorezm region,married,college or above,yes,yes,no,no,no,yes,0
+F,3(29-40),other,1,yes,Syrdarya region,married,high school or lyceum,yes,no,no,no,no,yes,0
+M,2(18-28),unemployed,1,yes,Syrdarya region,married,college or above,yes,no,no,no,no,yes,0
+F,3(29-40),healthcare worker,1,no,Namangan region,married,college or above,no,no,no,no,no,no,0
+F,3(29-40),healthcare worker,1,no,Navoi region,married,college or above,yes,yes,no,no,no,yes,0
+F,4(41-48),unemployed,1,yes,Tashkent region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),sex worker,4,no,Andijan region,married,college or above,yes,yes,no,no,no,no,0
+M,4(41-48),other,1,yes,Syrdarya region,married,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),other,1,no,Syrdarya region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,yes,Ferghana region,married,college or above,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,yes,Andijan region,married,college or above,yes,yes,no,no,no,yes,0
+F,2(18-28),healthcare worker,1,no,Andijan region,married,college or above,yes,no,no,yes,no,no,0
+F,2(18-28),other,1,yes,Andijan region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,3(29-40),other,1,yes,Navoi region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,yes,Tashkent region,married,college or above,yes,no,no,no,no,no,0
+M,4(41-48),other,2,yes,Andijan region,married,high school or lyceum,yes,yes,no,no,no,yes,0
+M,3(29-40),other,3,no,Ferghana region,married,college or above,yes,no,no,no,no,yes,0
+F,4(41-48),other,1,yes,Tashkent region,married,college or above,no,yes,no,no,no,yes,0
+M,3(29-40),other,1,no,Khorezm region,married,college or above,yes,yes,no,no,no,no,0
+M,3(29-40),unemployed,1,yes,Jizzakh region,divorced or widowed,college or above,yes,yes,no,no,no,yes,0
+M,2(18-28),other,1,yes,Kashkadarya region,married,college or above,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,yes,Tashkent city,divorced or widowed,college or above,yes,yes,no,no,no,yes,0
+M,2(18-28),other,1,no,Republic of Karakalpakstan,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+F,3(29-40),healthcare worker,1,yes,Khorezm region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),healthcare worker,1,yes,Tashkent region,married,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),healthcare worker,1,yes,Surkhandarya region,married,college or above,yes,no,yes,no,no,no,0
+F,6(56-65),other,1,no,Khorezm region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,yes,Syrdarya region,unmarried,college or above,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,yes,Ferghana region,married,college or above,no,no,no,no,no,no,0
+M,3(29-40),healthcare worker,1,no,Ferghana region,married,college or above,yes,yes,no,no,no,no,1
+F,2(18-28),healthcare worker,1,yes,Ferghana region,cohabitation,college or above,yes,no,no,no,no,no,0
+F,2(18-28),healthcare worker,1,yes,Ferghana region,married,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,yes,Jizzakh region,unmarried,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),other,1,yes,Andijan region,divorced or widowed,college or above,yes,yes,no,no,no,yes,0
+M,4(41-48),other,1,no,Andijan region,married,college or above,yes,yes,no,no,no,no,0
+M,3(29-40),other,1,no,Ferghana region,married,college or above,no,no,no,no,no,no,0
+F,3(29-40),other,1,no,Kashkadarya region,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),other,1,yes,Bukhara region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,yes,Tashkent city,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),unemployed,1,no,Tashkent region,married,college or above,yes,no,no,no,no,yes,0
+F,3(29-40),other,1,no,Syrdarya region,married,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,yes,Andijan region,married,college or above,no,yes,yes,no,no,no,0
+M,3(29-40),unemployed,1,yes,Andijan region,unmarried,college or above,no,no,no,no,no,no,0
+F,2(18-28),sex worker,5,no,Bukhara region,unmarried,college or above,yes,yes,no,no,yes,no,0
+M,3(29-40),unemployed,1,yes,Tashkent region,married,college or above,no,no,no,no,no,no,0
+F,4(41-48),other,1,no,Jizzakh region,married,high school or lyceum,yes,no,no,no,no,no,0
+M,3(29-40),healthcare worker,1,no,Tashkent city,married,college or above,yes,no,no,no,no,yes,0
+M,4(41-48),healthcare worker,1,yes,Tashkent region,married,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),healthcare worker,1,no,Ferghana region,married,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,yes,Ferghana region,married,college or above,no,no,no,no,no,no,0
+F,2(18-28),other,1,no,Navoi region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),unemployed,1,yes,Tashkent region,married,college or above,yes,yes,no,no,no,yes,0
+M,2(18-28),unemployed,1,yes,Tashkent city,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,yes,Tashkent city,married,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,1,no,Tashkent city,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+F,3(29-40),healthcare worker,1,yes,Khorezm region,married,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),other,5,yes,Khorezm region,married,college or above,yes,yes,no,no,no,yes,0
+M,2(18-28),other,1,no,Syrdarya region,married,college or above,yes,no,no,no,no,no,1
+F,3(29-40),other,1,no,Tashkent region,married,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),other,1,no,Andijan region,unmarried,college or above,no,yes,no,no,no,no,0
+M,3(29-40),other,1,no,Jizzakh region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),unemployed,1,yes,Bukhara region,married,high school or lyceum,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,yes,Andijan region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,no,Andijan region,divorced or widowed,middle school,no,no,no,no,no,no,0
+F,3(29-40),unemployed,1,yes,Andijan region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,no,Andijan region,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),unemployed,1,no,Syrdarya region,cohabitation,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),healthcare worker,1,yes,Syrdarya region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,yes,Syrdarya region,married,college or above,yes,yes,no,no,no,no,0
+M,3(29-40),other,1,yes,Syrdarya region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,no,Tashkent region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,3(29-40),healthcare worker,1,no,Jizzakh region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,yes,Tashkent region,married,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,yes,Samarkand region,married,college or above,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,yes,Ferghana region,married,middle school,yes,no,yes,no,no,yes,0
+F,3(29-40),healthcare worker,1,no,Tashkent region,divorced or widowed,college or above,yes,no,yes,no,no,no,0
+M,3(29-40),sex worker,4,yes,Republic of Karakalpakstan,unmarried,college or above,yes,yes,no,yes,yes,yes,0
+M,3(29-40),other,1,no,Syrdarya region,married,college or above,yes,no,no,no,no,yes,0
+F,3(29-40),other,1,no,Tashkent region,divorced or widowed,middle school,yes,no,no,no,no,no,0
+F,2(18-28),other,1,no,Tashkent city,married,college or above,yes,no,no,no,no,no,0
+M,3(29-40),other,1,no,Tashkent city,married,middle school,yes,no,no,no,no,no,0
+M,3(29-40),unemployed,1,no,Tashkent city,married,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,yes,Tashkent city,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,no,Tashkent city,married,college or above,yes,no,no,no,yes,yes,0
+F,2(18-28),other,1,no,Namangan region,married,high school or lyceum,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,no,Kashkadarya region,married,high school or lyceum,yes,no,no,no,no,yes,0
+M,3(29-40),unemployed,1,yes,Khorezm region,married,middle school,no,no,no,no,no,no,0
+F,2(18-28),healthcare worker,1,yes,Tashkent region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+F,4(41-48),other,1,yes,Samarkand region,married,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,yes,Tashkent city,married,high school or lyceum,yes,no,yes,no,no,no,0
+M,3(29-40),other,1,no,Tashkent city,divorced or widowed,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,yes,Andijan region,divorced or widowed,high school or lyceum,yes,no,no,no,no,no,0
+F,2(18-28),other,1,yes,Tashkent city,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),healthcare worker,1,yes,Tashkent city,divorced or widowed,college or above,yes,no,no,no,no,no,0
+F,3(29-40),unemployed,3,yes,Navoi region,unmarried,primary school,yes,no,no,no,no,yes,0
+F,3(29-40),healthcare worker,1,yes,Khorezm region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),healthcare worker,1,no,Khorezm region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,yes,Samarkand region,married,high school or lyceum,yes,yes,no,no,no,no,0
+M,2(18-28),healthcare worker,1,no,Jizzakh region,married,high school or lyceum,yes,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,yes,Surkhandarya region,married,high school or lyceum,no,no,yes,no,no,no,0
+M,3(29-40),healthcare worker,1,yes,Khorezm region,unmarried,college or above,yes,no,no,no,no,yes,0
+F,3(29-40),other,1,yes,Namangan region,married,college or above,yes,no,no,no,no,yes,0
+F,4(41-48),other,1,yes,Bukhara region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+F,3(29-40),other,1,yes,Khorezm region,married,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,1,yes,Tashkent city,married,college or above,no,no,no,no,no,yes,0
+M,3(29-40),other,1,no,Tashkent city,married,college or above,yes,no,no,no,no,no,0
+M,3(29-40),other,1,no,Ferghana region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),unemployed,1,no,Namangan region,married,college or above,no,yes,no,no,no,no,0
+M,2(18-28),other,1,yes,Namangan region,married,college or above,yes,yes,no,no,no,yes,0
+F,3(29-40),sex worker,3,no,Tashkent region,married,middle school,yes,yes,yes,yes,yes,yes,0
+F,2(18-28),other,1,no,Jizzakh region,married,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,yes,Khorezm region,married,college or above,yes,no,no,no,no,no,0
+M,3(29-40),other,1,no,Tashkent city,married,college or above,no,no,no,no,no,no,1
+M,2(18-28),other,1,yes,Syrdarya region,married,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),other,1,no,Samarkand region,married,high school or lyceum,yes,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,yes,Kashkadarya region,married,college or above,no,no,no,no,no,yes,0
+F,2(18-28),healthcare worker,1,yes,Andijan region,married,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,1,yes,Tashkent region,married,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),other,1,yes,Tashkent region,married,high school or lyceum,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,yes,Navoi region,divorced or widowed,college or above,no,no,no,no,no,yes,0
+M,2(18-28),healthcare worker,1,no,Bukhara region,married,high school or lyceum,no,no,no,no,no,no,0
+M,2(18-28),other,1,no,Khorezm region,married,middle school,yes,no,no,no,no,no,0
+F,3(29-40),sex worker,3,no,Namangan region,cohabitation,college or above,no,yes,no,no,yes,no,0
+M,2(18-28),other,1,yes,Tashkent city,unmarried,high school or lyceum,yes,no,no,no,no,no,0
+F,2(18-28),other,1,yes,Ferghana region,unmarried,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),other,1,no,Ferghana region,divorced or widowed,high school or lyceum,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,yes,Kashkadarya region,married,college or above,no,no,no,no,no,yes,0
+F,4(41-48),other,1,no,Syrdarya region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,no,Tashkent region,married,college or above,no,yes,no,no,no,yes,0
+F,2(18-28),sex worker,3,yes,Syrdarya region,married,college or above,yes,yes,no,no,yes,yes,0
+M,3(29-40),unemployed,1,no,Namangan region,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,yes,Tashkent city,cohabitation,college or above,yes,yes,no,no,no,yes,0
+F,2(18-28),unemployed,1,yes,Republic of Karakalpakstan,married,high school or lyceum,yes,no,no,no,no,no,0
+M,2(18-28),other,1,no,Andijan region,married,college or above,no,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,yes,Surkhandarya region,married,high school or lyceum,no,yes,no,no,no,no,1
+M,2(18-28),healthcare worker,1,yes,Samarkand region,unmarried,middle school,no,yes,no,no,no,no,0
+F,3(29-40),other,1,no,Andijan region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,3(29-40),healthcare worker,1,yes,Surkhandarya region,cohabitation,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,1,no,Tashkent city,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,yes,Syrdarya region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,yes,Samarkand region,married,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),healthcare worker,1,yes,Bukhara region,married,high school or lyceum,yes,no,no,no,no,no,0
+M,2(18-28),other,1,no,Surkhandarya region,cohabitation,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,1,no,Republic of Karakalpakstan,divorced or widowed,high school or lyceum,no,no,no,no,no,yes,0
+M,2(18-28),other,1,no,Jizzakh region,married,high school or lyceum,yes,no,no,no,no,no,0
+M,3(29-40),other,1,yes,Jizzakh region,divorced or widowed,college or above,yes,yes,yes,no,no,yes,0
+F,3(29-40),healthcare worker,1,no,Tashkent region,married,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,no,Jizzakh region,divorced or widowed,high school or lyceum,no,no,no,no,no,no,0
+M,3(29-40),sex worker,3,yes,Jizzakh region,married,high school or lyceum,yes,yes,no,no,yes,no,0
+F,2(18-28),other,3,yes,Tashkent city,cohabitation,college or above,no,no,no,no,no,no,0
+F,2(18-28),other,1,no,Tashkent city,married,high school or lyceum,no,no,no,yes,no,no,0
+F,2(18-28),other,1,no,Tashkent region,married,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,1,no,Samarkand region,married,college or above,yes,no,no,no,no,no,0
+M,4(41-48),other,1,no,Tashkent city,divorced or widowed,college or above,yes,yes,no,no,no,yes,0
+M,3(29-40),unemployed,1,no,Tashkent region,unmarried,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,yes,Ferghana region,divorced or widowed,college or above,no,no,no,no,no,no,0
+F,2(18-28),other,1,no,Ferghana region,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),healthcare worker,1,no,Tashkent city,married,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),unemployed,1,yes,Namangan region,divorced or widowed,college or above,yes,yes,no,no,no,yes,0
+M,2(18-28),other,1,no,Surkhandarya region,divorced or widowed,high school or lyceum,yes,no,no,no,no,no,0
+F,2(18-28),other,1,no,Tashkent city,married,Illiterate,yes,no,no,no,no,no,0
+F,2(18-28),other,1,yes,Andijan region,married,high school or lyceum,yes,no,no,no,no,yes,0
+F,3(29-40),healthcare worker,5,no,Surkhandarya region,divorced or widowed,high school or lyceum,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,no,Syrdarya region,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),other,1,yes,Ferghana region,divorced or widowed,high school or lyceum,yes,yes,no,no,no,no,0
+M,3(29-40),other,1,yes,Syrdarya region,married,college or above,no,yes,no,no,no,yes,0
+F,3(29-40),other,1,no,Samarkand region,divorced or widowed,middle school,yes,no,no,no,no,no,0
+M,2(18-28),unemployed,1,no,Surkhandarya region,married,high school or lyceum,yes,yes,no,no,no,no,0
+F,3(29-40),healthcare worker,1,no,Andijan region,married,college or above,yes,no,no,no,no,yes,0
+F,4(41-48),healthcare worker,1,yes,Syrdarya region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,yes,Andijan region,married,high school or lyceum,no,no,no,no,no,yes,0
+F,2(18-28),healthcare worker,1,yes,Samarkand region,cohabitation,high school or lyceum,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,yes,Andijan region,married,college or above,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,no,Ferghana region,married,high school or lyceum,yes,no,no,no,no,no,0
+F,2(18-28),healthcare worker,1,yes,Andijan region,married,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,1,yes,Andijan region,divorced or widowed,college or above,no,no,no,no,no,yes,0
+F,3(29-40),other,1,no,Tashkent city,married,college or above,yes,no,no,no,no,yes,0
+F,4(41-48),healthcare worker,1,no,Surkhandarya region,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),other,1,no,Andijan region,married,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),healthcare worker,1,yes,Syrdarya region,divorced or widowed,high school or lyceum,yes,no,yes,no,no,yes,0
+F,3(29-40),unemployed,1,yes,Ferghana region,married,college or above,yes,no,no,no,no,no,0
+M,3(29-40),other,1,no,Khorezm region,married,college or above,yes,no,no,no,no,yes,0
+M,4(41-48),healthcare worker,1,yes,Samarkand region,married,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),other,1,no,Tashkent region,married,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),unemployed,1,no,Tashkent city,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),other,1,yes,Tashkent region,married,college or above,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,yes,Navoi region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),unemployed,1,yes,Bukhara region,married,college or above,yes,yes,no,no,no,yes,0
+M,3(29-40),unemployed,1,no,Tashkent city,married,high school or lyceum,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,yes,Republic of Karakalpakstan,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,yes,Ferghana region,cohabitation,high school or lyceum,yes,no,no,no,no,no,0
+F,2(18-28),other,1,no,Bukhara region,divorced or widowed,high school or lyceum,yes,no,no,no,no,no,0
+M,3(29-40),unemployed,1,yes,Syrdarya region,married,high school or lyceum,yes,no,no,no,no,no,0
+F,2(18-28),other,1,yes,Syrdarya region,married,college or above,yes,no,no,no,no,yes,0
+M,4(41-48),other,2,no,Khorezm region,married,high school or lyceum,yes,yes,no,no,no,no,0
+M,3(29-40),unemployed,1,yes,Samarkand region,married,middle school,yes,no,no,no,no,no,0
+F,2(18-28),unemployed,1,no,Tashkent city,married,high school or lyceum,yes,yes,no,no,no,yes,0
+M,3(29-40),other,1,yes,Namangan region,married,high school or lyceum,no,no,no,no,no,yes,0
+M,3(29-40),healthcare worker,1,no,Tashkent region,divorced or widowed,high school or lyceum,yes,yes,no,no,no,no,0
+F,3(29-40),other,2,yes,Bukhara region,married,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),other,1,no,Tashkent city,married,college or above,no,no,yes,no,no,no,0
+M,2(18-28),other,1,yes,Ferghana region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,3(29-40),other,1,yes,Tashkent region,married,high school or lyceum,yes,no,no,no,no,no,0
+F,3(29-40),healthcare worker,1,yes,Tashkent city,married,college or above,no,no,no,no,no,yes,0
+M,2(18-28),unemployed,1,yes,Samarkand region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,yes,Ferghana region,married,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,no,Republic of Karakalpakstan,married,college or above,no,no,no,no,no,yes,0
+M,2(18-28),other,1,yes,Surkhandarya region,married,high school or lyceum,yes,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,no,Navoi region,married,college or above,no,no,no,no,no,yes,0
+F,3(29-40),healthcare worker,1,yes,Andijan region,married,college or above,no,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,yes,Tashkent city,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,3(29-40),healthcare worker,1,no,Surkhandarya region,married,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),unemployed,1,no,Khorezm region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,yes,Jizzakh region,married,college or above,yes,no,no,no,yes,yes,0
+M,3(29-40),healthcare worker,1,no,Andijan region,married,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),unemployed,1,yes,Surkhandarya region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),unemployed,1,no,Samarkand region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,yes,Ferghana region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),unemployed,1,yes,Khorezm region,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),other,1,yes,Khorezm region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,yes,Namangan region,divorced or widowed,high school or lyceum,yes,no,no,no,no,no,0
+F,2(18-28),unemployed,4,yes,Kashkadarya region,married,college or above,yes,yes,no,no,no,yes,0
+M,3(29-40),other,1,no,Syrdarya region,married,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,1,yes,Namangan region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),healthcare worker,1,yes,Tashkent city,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),other,1,no,Khorezm region,married,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,1,no,Namangan region,married,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),healthcare worker,1,yes,Kashkadarya region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),healthcare worker,1,yes,Khorezm region,divorced or widowed,college or above,yes,yes,no,no,no,yes,0
+M,2(18-28),other,1,no,Andijan region,married,college or above,no,yes,no,no,no,no,0
+F,3(29-40),other,1,no,Kashkadarya region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),sex worker,4,no,Tashkent city,divorced or widowed,high school or lyceum,yes,yes,no,no,yes,yes,0
+F,3(29-40),healthcare worker,1,no,Andijan region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,yes,Republic of Karakalpakstan,married,college or above,yes,yes,yes,no,no,no,0
+F,3(29-40),other,1,yes,Tashkent city,married,college or above,yes,yes,no,no,no,no,0
+M,3(29-40),other,1,yes,Surkhandarya region,married,high school or lyceum,yes,no,no,no,no,no,0
+F,2(18-28),other,1,no,Andijan region,married,college or above,yes,no,no,no,no,no,0
+F,2(18-28),sex worker,3,no,Andijan region,divorced or widowed,college or above,yes,yes,no,yes,yes,no,0
+M,3(29-40),other,1,no,Kashkadarya region,married,college or above,no,no,no,no,no,yes,0
+F,3(29-40),other,1,no,Andijan region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+F,3(29-40),healthcare worker,1,no,Republic of Karakalpakstan,married,high school or lyceum,yes,yes,no,no,no,yes,0
+M,2(18-28),other,1,yes,Tashkent city,married,college or above,no,no,no,no,no,no,0
+M,3(29-40),other,1,yes,Andijan region,married,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),healthcare worker,1,no,Tashkent region,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),other,1,yes,Khorezm region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,no,Tashkent region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,no,Ferghana region,married,high school or lyceum,yes,yes,no,no,no,yes,0
+M,3(29-40),other,1,yes,Surkhandarya region,married,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),sex worker,3,yes,Surkhandarya region,divorced or widowed,college or above,yes,yes,no,yes,yes,yes,0
+M,2(18-28),other,1,yes,Syrdarya region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,1,no,Surkhandarya region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,no,Syrdarya region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),unemployed,2,yes,Kashkadarya region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+F,2(18-28),healthcare worker,1,no,Tashkent city,divorced or widowed,college or above,no,yes,no,no,no,no,0
+F,3(29-40),other,1,no,Bukhara region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,3(29-40),other,1,no,Ferghana region,married,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),other,1,no,Navoi region,married,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),other,1,no,Kashkadarya region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,yes,Syrdarya region,married,college or above,no,yes,no,no,no,yes,0
+M,2(18-28),healthcare worker,1,yes,Jizzakh region,married,high school or lyceum,yes,no,yes,no,no,no,0
+F,3(29-40),other,1,yes,Tashkent city,divorced or widowed,college or above,no,yes,yes,no,no,no,0
+F,2(18-28),healthcare worker,1,no,Bukhara region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,no,Syrdarya region,married,college or above,yes,yes,no,no,no,no,0
+M,3(29-40),other,1,no,Namangan region,divorced or widowed,college or above,no,yes,no,no,no,yes,0
+F,2(18-28),healthcare worker,1,yes,Namangan region,married,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,yes,Republic of Karakalpakstan,divorced or widowed,middle school,yes,yes,yes,no,no,yes,0
+M,2(18-28),healthcare worker,1,no,Tashkent region,divorced or widowed,high school or lyceum,yes,yes,no,no,no,no,0
+F,2(18-28),healthcare worker,1,yes,Syrdarya region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,no,Andijan region,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+M,3(29-40),unemployed,1,no,Khorezm region,married,college or above,yes,no,no,no,no,no,0
+F,4(41-48),other,1,yes,Bukhara region,married,high school or lyceum,yes,no,no,no,no,no,0
+F,2(18-28),healthcare worker,1,no,Andijan region,married,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,no,Kashkadarya region,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),unemployed,1,no,Syrdarya region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),healthcare worker,1,no,Khorezm region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),healthcare worker,1,yes,Surkhandarya region,married,college or above,yes,no,no,no,no,no,0
+M,4(41-48),other,1,yes,Tashkent region,married,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),unemployed,1,yes,Andijan region,divorced or widowed,high school or lyceum,yes,yes,no,no,yes,yes,0
+F,3(29-40),healthcare worker,1,yes,Khorezm region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),healthcare worker,1,yes,Tashkent city,divorced or widowed,high school or lyceum,yes,no,no,no,no,no,0
+M,4(41-48),unemployed,1,yes,Tashkent region,married,middle school,no,no,no,no,no,no,0
+M,2(18-28),unemployed,1,no,Tashkent city,unmarried,college or above,yes,yes,no,no,no,yes,0
+F,3(29-40),other,1,yes,Jizzakh region,married,high school or lyceum,yes,no,no,no,no,no,0
+F,2(18-28),other,1,yes,Samarkand region,married,college or above,yes,yes,no,no,no,yes,0
+M,3(29-40),other,1,no,Jizzakh region,married,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),unemployed,1,yes,Syrdarya region,divorced or widowed,high school or lyceum,yes,no,no,no,no,no,0
+F,2(18-28),healthcare worker,1,yes,Khorezm region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),sex worker,4,no,Tashkent city,married,college or above,yes,yes,no,no,yes,no,0
+F,2(18-28),healthcare worker,1,yes,Tashkent region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),unemployed,1,no,Syrdarya region,divorced or widowed,high school or lyceum,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,no,Andijan region,married,college or above,yes,no,no,no,no,no,0
+F,4(41-48),other,1,no,Andijan region,divorced or widowed,college or above,yes,no,no,no,no,yes,1
+M,2(18-28),other,1,yes,Tashkent region,married,college or above,yes,no,no,no,no,no,0
+F,2(18-28),sex worker,3,yes,Andijan region,married,college or above,yes,yes,no,yes,yes,no,0
+F,2(18-28),other,1,yes,Jizzakh region,married,college or above,yes,yes,no,no,no,yes,0
+F,3(29-40),other,1,yes,Khorezm region,unmarried,college or above,yes,yes,no,no,no,no,0
+F,4(41-48),other,1,yes,Tashkent region,married,high school or lyceum,no,no,no,no,no,no,0
+F,3(29-40),healthcare worker,1,no,Surkhandarya region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,no,Andijan region,cohabitation,middle school,yes,no,no,no,no,no,0
+F,2(18-28),other,1,yes,Andijan region,divorced or widowed,middle school,yes,no,no,no,no,no,0
+M,2(18-28),other,1,yes,Syrdarya region,married,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,1,yes,Andijan region,married,high school or lyceum,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,yes,Syrdarya region,married,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,yes,Tashkent city,divorced or widowed,high school or lyceum,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,yes,Tashkent city,divorced or widowed,high school or lyceum,yes,no,no,no,no,yes,0
+F,3(29-40),healthcare worker,1,yes,Tashkent region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+F,3(29-40),sex worker,3,yes,Tashkent region,married,high school or lyceum,yes,yes,no,no,yes,no,0
+M,4(41-48),other,1,no,Bukhara region,married,middle school,no,yes,no,no,no,no,0
+F,3(29-40),other,1,no,Tashkent region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),other,1,no,Surkhandarya region,married,high school or lyceum,yes,yes,no,no,no,yes,0
+F,3(29-40),unemployed,1,no,Tashkent region,married,high school or lyceum,yes,no,no,no,no,yes,0
+M,3(29-40),healthcare worker,1,yes,Samarkand region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),other,1,yes,Tashkent city,married,high school or lyceum,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,no,Tashkent region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),unemployed,1,yes,Andijan region,married,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),other,1,yes,Syrdarya region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),unemployed,1,no,Tashkent region,divorced or widowed,high school or lyceum,no,no,no,no,no,yes,0
+F,2(18-28),other,1,no,Namangan region,cohabitation,high school or lyceum,yes,no,no,no,no,yes,0
+F,3(29-40),other,2,no,Syrdarya region,married,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,yes,Tashkent region,cohabitation,high school or lyceum,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,no,Namangan region,married,college or above,no,no,no,no,no,yes,0
+F,3(29-40),other,1,no,Navoi region,married,high school or lyceum,yes,no,no,no,no,no,0
+F,3(29-40),healthcare worker,1,yes,Tashkent city,married,high school or lyceum,yes,yes,no,no,no,yes,0
+M,2(18-28),other,1,no,Tashkent city,married,college or above,no,no,no,no,no,yes,1
+M,2(18-28),healthcare worker,1,yes,Ferghana region,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),other,1,yes,Andijan region,married,high school or lyceum,no,no,no,no,no,yes,0
+F,2(18-28),healthcare worker,1,yes,Namangan region,married,high school or lyceum,yes,yes,no,no,no,no,1
+M,2(18-28),unemployed,1,no,Khorezm region,married,college or above,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,no,Syrdarya region,divorced or widowed,middle school,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,yes,Khorezm region,married,college or above,yes,no,no,no,no,no,0
+M,3(29-40),other,1,yes,Syrdarya region,married,college or above,no,yes,no,no,no,no,0
+M,2(18-28),healthcare worker,1,no,Andijan region,married,college or above,no,no,no,no,no,yes,0
+M,2(18-28),other,1,yes,Tashkent city,cohabitation,college or above,yes,yes,no,no,no,yes,0
+F,3(29-40),other,1,yes,Surkhandarya region,married,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),other,1,yes,Tashkent city,unmarried,high school or lyceum,yes,no,no,no,no,yes,0
+F,3(29-40),healthcare worker,1,no,Surkhandarya region,married,college or above,yes,no,no,yes,no,no,0
+M,4(41-48),other,1,yes,Andijan region,married,high school or lyceum,yes,no,no,no,no,no,0
+F,3(29-40),unemployed,1,yes,Ferghana region,cohabitation,high school or lyceum,yes,no,no,no,no,no,0
+F,2(18-28),other,1,no,Syrdarya region,married,college or above,no,yes,no,no,no,no,0
+F,3(29-40),other,1,yes,Navoi region,cohabitation,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,no,Tashkent region,married,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,yes,Kashkadarya region,married,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,yes,Samarkand region,married,college or above,yes,yes,no,no,no,no,0
+M,3(29-40),healthcare worker,1,yes,Bukhara region,married,college or above,yes,no,no,no,no,no,1
+M,2(18-28),other,5,yes,Andijan region,married,high school or lyceum,yes,no,no,no,no,no,0
+F,3(29-40),other,1,no,Namangan region,married,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),other,1,yes,Tashkent region,divorced or widowed,primary school,yes,no,no,no,no,no,0
+M,3(29-40),other,1,yes,Tashkent region,married,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,1,no,Khorezm region,married,college or above,yes,yes,no,no,no,no,0
+M,4(41-48),healthcare worker,1,no,Namangan region,married,college or above,yes,no,no,no,no,no,0
+M,1(15-17),other,1,no,Namangan region,divorced or widowed,middle school,yes,no,no,no,no,no,0
+M,2(18-28),unemployed,1,no,Tashkent region,married,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,yes,Syrdarya region,cohabitation,high school or lyceum,yes,no,no,no,no,yes,0
+F,2(18-28),unemployed,1,no,Ferghana region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),other,1,yes,Andijan region,married,college or above,yes,no,no,no,no,yes,0
+M,4(41-48),other,1,no,Kashkadarya region,married,high school or lyceum,yes,no,no,no,no,no,0
+M,2(18-28),other,1,no,Bukhara region,married,high school or lyceum,yes,yes,no,no,no,no,0
+M,2(18-28),healthcare worker,1,yes,Tashkent city,married,college or above,no,no,no,no,no,yes,0
+M,3(29-40),other,1,yes,Republic of Karakalpakstan,divorced or widowed,college or above,yes,no,no,yes,no,no,0
+F,2(18-28),other,1,yes,Andijan region,divorced or widowed,high school or lyceum,no,no,no,no,no,no,0
+M,3(29-40),other,1,no,Syrdarya region,married,college or above,yes,no,no,no,no,no,0
+F,2(18-28),healthcare worker,1,no,Bukhara region,married,high school or lyceum,no,yes,no,no,no,yes,0
+F,3(29-40),unemployed,1,no,Surkhandarya region,married,college or above,no,yes,no,yes,no,yes,0
+M,2(18-28),other,1,yes,Bukhara region,married,college or above,no,yes,no,no,no,yes,0
+F,3(29-40),healthcare worker,1,no,Namangan region,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+M,3(29-40),healthcare worker,1,no,Jizzakh region,married,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,yes,Tashkent region,divorced or widowed,college or above,no,no,no,no,no,no,0
+F,3(29-40),sex worker,3,no,Syrdarya region,married,college or above,yes,yes,no,no,yes,no,0
+F,2(18-28),healthcare worker,1,no,Namangan region,married,high school or lyceum,yes,no,no,no,no,no,0
+M,3(29-40),unemployed,1,yes,Tashkent city,married,college or above,yes,yes,no,no,no,yes,0
+F,4(41-48),healthcare worker,1,yes,Khorezm region,married,middle school,yes,yes,no,no,no,yes,0
+F,3(29-40),other,1,no,Syrdarya region,married,college or above,yes,yes,no,no,no,yes,0
+M,3(29-40),healthcare worker,1,yes,Samarkand region,married,college or above,yes,yes,no,no,no,no,0
+M,3(29-40),other,1,no,Surkhandarya region,divorced or widowed,high school or lyceum,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,yes,Khorezm region,married,college or above,yes,yes,no,no,no,yes,0
+M,2(18-28),other,1,no,Syrdarya region,married,high school or lyceum,yes,no,no,yes,no,yes,0
+F,2(18-28),healthcare worker,1,yes,Surkhandarya region,divorced or widowed,college or above,yes,no,no,yes,no,yes,0
+F,2(18-28),other,1,no,Tashkent city,married,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,yes,Tashkent city,married,college or above,yes,no,no,no,no,yes,0
+F,3(29-40),healthcare worker,1,yes,Syrdarya region,married,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),unemployed,1,no,Surkhandarya region,married,college or above,yes,yes,no,no,no,yes,0
+M,3(29-40),other,1,no,Tashkent region,married,high school or lyceum,yes,no,no,no,no,no,0
+F,2(18-28),other,1,yes,Tashkent region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,no,Khorezm region,married,college or above,yes,yes,no,no,no,yes,0
+M,3(29-40),other,1,no,Tashkent city,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),healthcare worker,1,yes,Tashkent city,unmarried,college or above,yes,yes,no,no,no,no,0
+M,3(29-40),healthcare worker,1,no,Ferghana region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),healthcare worker,1,yes,Surkhandarya region,married,college or above,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,yes,Navoi region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,yes,Syrdarya region,married,college or above,yes,no,no,no,no,no,0
+F,2(18-28),unemployed,1,yes,Republic of Karakalpakstan,unmarried,college or above,yes,no,no,no,no,yes,0
+F,3(29-40),healthcare worker,1,no,Tashkent region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,yes,Samarkand region,married,college or above,yes,no,yes,no,no,yes,0
+M,4(41-48),other,1,no,Ferghana region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),healthcare worker,1,no,Khorezm region,married,college or above,yes,yes,no,no,no,yes,0
+F,3(29-40),other,1,no,Syrdarya region,divorced or widowed,high school or lyceum,yes,yes,no,no,no,no,0
+M,3(29-40),other,1,no,Syrdarya region,divorced or widowed,middle school,yes,yes,no,no,no,yes,0
+F,2(18-28),unemployed,1,yes,Syrdarya region,divorced or widowed,high school or lyceum,yes,no,no,no,no,no,0
+M,2(18-28),unemployed,1,yes,Tashkent region,married,high school or lyceum,yes,no,no,no,no,yes,0
+F,2(18-28),healthcare worker,1,yes,Syrdarya region,married,high school or lyceum,yes,no,yes,no,no,no,0
+F,3(29-40),other,1,yes,Syrdarya region,married,college or above,no,yes,no,no,no,no,0
+M,2(18-28),other,1,no,Jizzakh region,divorced or widowed,high school or lyceum,yes,no,no,no,no,no,0
+F,2(18-28),sex worker,3,no,Tashkent city,divorced or widowed,college or above,yes,yes,no,yes,yes,yes,0
+M,2(18-28),other,3,no,Tashkent city,married,college or above,yes,yes,no,no,no,no,0
+F,4(41-48),other,1,yes,Tashkent city,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,3(29-40),unemployed,1,yes,Namangan region,divorced or widowed,college or above,yes,yes,yes,no,no,no,0
+M,2(18-28),healthcare worker,1,no,Tashkent city,married,high school or lyceum,yes,no,no,no,no,no,0
+F,3(29-40),other,1,no,Kashkadarya region,married,high school or lyceum,yes,no,no,no,no,yes,0
+M,2(18-28),healthcare worker,1,no,Ferghana region,unmarried,college or above,yes,no,yes,no,no,no,0
+F,4(41-48),other,1,yes,Tashkent city,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),healthcare worker,1,yes,Surkhandarya region,divorced or widowed,college or above,yes,yes,no,no,no,yes,0
+M,2(18-28),other,1,no,Syrdarya region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,no,Andijan region,married,middle school,yes,no,no,no,no,no,0
+M,3(29-40),healthcare worker,1,no,Ferghana region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+F,4(41-48),other,1,no,Tashkent region,married,college or above,yes,yes,no,no,no,no,0
+M,3(29-40),other,1,yes,Khorezm region,married,college or above,no,yes,no,no,no,yes,0
+F,2(18-28),healthcare worker,1,yes,Tashkent region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,no,Tashkent city,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,no,Samarkand region,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),other,1,no,Tashkent city,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,no,Khorezm region,married,college or above,no,yes,no,no,no,yes,0
+M,2(18-28),other,1,no,Tashkent region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,no,Syrdarya region,cohabitation,college or above,yes,yes,no,no,no,yes,0
+M,3(29-40),healthcare worker,1,yes,Namangan region,married,middle school,no,yes,no,no,no,no,0
+F,2(18-28),other,1,yes,Navoi region,married,college or above,yes,no,no,no,no,no,0
+M,3(29-40),other,1,no,Syrdarya region,married,college or above,yes,no,no,no,no,no,0
+M,3(29-40),other,1,yes,Andijan region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),sex worker,4,no,Andijan region,divorced or widowed,high school or lyceum,no,yes,no,no,yes,no,0
+F,3(29-40),healthcare worker,1,no,Navoi region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,yes,Tashkent city,married,college or above,yes,no,no,no,no,no,0
+F,2(18-28),healthcare worker,1,yes,Tashkent city,married,college or above,yes,yes,no,no,no,yes,0
+F,2(18-28),healthcare worker,1,no,Kashkadarya region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),other,1,yes,Syrdarya region,divorced or widowed,high school or lyceum,no,no,yes,no,no,yes,0
+M,3(29-40),other,1,yes,Syrdarya region,married,middle school,yes,no,no,no,no,no,0
+F,3(29-40),other,1,yes,Surkhandarya region,married,college or above,yes,no,no,yes,no,no,0
+F,4(41-48),unemployed,1,yes,Namangan region,married,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),healthcare worker,1,no,Republic of Karakalpakstan,married,college or above,yes,yes,no,no,no,yes,0
+M,3(29-40),other,1,no,Syrdarya region,married,college or above,yes,no,no,no,no,no,0
+M,3(29-40),other,1,yes,Syrdarya region,married,high school or lyceum,yes,no,no,no,no,yes,0
+M,3(29-40),sex worker,4,yes,Syrdarya region,married,college or above,yes,yes,no,yes,yes,no,0
+F,3(29-40),other,1,yes,Tashkent city,married,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),other,1,no,Khorezm region,married,high school or lyceum,yes,yes,no,no,no,no,0
+M,3(29-40),other,1,yes,Kashkadarya region,unmarried,college or above,yes,yes,no,no,no,yes,0
+F,2(18-28),other,2,yes,Namangan region,married,high school or lyceum,no,no,no,no,no,yes,0
+F,2(18-28),other,1,yes,Khorezm region,married,high school or lyceum,yes,no,no,no,no,yes,0
+F,3(29-40),sex worker,3,no,Andijan region,married,high school or lyceum,yes,yes,no,yes,yes,no,0
+M,3(29-40),other,1,no,Andijan region,divorced or widowed,college or above,yes,yes,no,no,no,yes,0
+F,2(18-28),healthcare worker,1,yes,Tashkent region,married,college or above,no,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,yes,Tashkent region,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),healthcare worker,1,yes,Tashkent region,married,high school or lyceum,yes,no,no,no,no,no,0
+M,2(18-28),other,1,no,Tashkent city,divorced or widowed,college or above,no,no,no,no,no,no,0
+M,2(18-28),other,1,yes,Khorezm region,married,high school or lyceum,yes,no,no,no,no,yes,0
+M,2(18-28),other,1,yes,Kashkadarya region,cohabitation,college or above,yes,no,no,no,no,yes,0
+F,4(41-48),healthcare worker,1,yes,Bukhara region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),healthcare worker,1,no,Syrdarya region,married,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),healthcare worker,1,no,Syrdarya region,married,college or above,yes,no,no,no,no,no,0
+F,4(41-48),other,1,yes,Bukhara region,married,high school or lyceum,yes,no,no,no,no,no,0
+M,4(41-48),unemployed,1,yes,Tashkent region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),healthcare worker,1,no,Tashkent city,married,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,yes,Bukhara region,married,high school or lyceum,yes,no,no,no,no,no,0
+M,2(18-28),sex worker,3,no,Tashkent region,divorced or widowed,college or above,yes,yes,no,no,yes,yes,0
+F,5(49-55),healthcare worker,1,no,Andijan region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),healthcare worker,1,yes,Syrdarya region,divorced or widowed,college or above,no,no,no,no,no,no,0
+F,3(29-40),other,1,no,Khorezm region,married,high school or lyceum,yes,no,no,no,no,yes,0
+M,2(18-28),other,1,no,Ferghana region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,yes,Ferghana region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,1,yes,Samarkand region,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,yes,Kashkadarya region,married,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),healthcare worker,1,no,Kashkadarya region,married,college or above,yes,no,no,no,no,no,0
+M,3(29-40),healthcare worker,1,no,Khorezm region,married,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),unemployed,1,yes,Tashkent region,divorced or widowed,high school or lyceum,no,yes,no,no,no,no,0
+F,4(41-48),other,1,no,Andijan region,married,college or above,no,no,no,no,no,yes,0
+M,2(18-28),unemployed,1,no,Ferghana region,married,middle school,yes,no,no,no,no,no,0
+F,3(29-40),other,1,no,Syrdarya region,married,college or above,yes,yes,no,no,no,yes,0
+M,4(41-48),other,1,no,Khorezm region,divorced or widowed,high school or lyceum,yes,no,no,no,no,no,0
+F,4(41-48),sex worker,3,yes,Navoi region,married,college or above,yes,yes,no,no,yes,no,1
+M,2(18-28),other,1,no,Surkhandarya region,married,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,yes,Tashkent city,married,college or above,no,yes,no,no,no,no,0
+F,2(18-28),healthcare worker,1,yes,Tashkent city,married,college or above,yes,no,no,no,no,no,0
+M,3(29-40),healthcare worker,1,yes,Bukhara region,married,college or above,yes,yes,no,no,no,no,0
+M,3(29-40),other,1,yes,Tashkent city,married,college or above,yes,no,no,no,no,no,0
+F,2(18-28),healthcare worker,1,no,Jizzakh region,married,high school or lyceum,yes,no,no,no,no,yes,0
+F,4(41-48),healthcare worker,1,yes,Andijan region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,3(29-40),healthcare worker,1,yes,Samarkand region,divorced or widowed,high school or lyceum,yes,yes,no,no,no,no,1
+F,2(18-28),other,1,yes,Syrdarya region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),healthcare worker,1,yes,Tashkent city,divorced or widowed,college or above,no,no,no,no,yes,no,0
+M,3(29-40),other,1,yes,Bukhara region,married,college or above,yes,yes,no,no,no,yes,0
+F,3(29-40),other,2,yes,Surkhandarya region,married,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),healthcare worker,1,no,Samarkand region,married,high school or lyceum,yes,no,no,no,no,yes,0
+M,2(18-28),other,2,no,Andijan region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,3(29-40),healthcare worker,1,yes,Tashkent region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,2,no,Tashkent region,married,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,no,Tashkent city,married,college or above,no,no,no,yes,no,yes,0
+F,3(29-40),other,1,no,Navoi region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),unemployed,1,no,Andijan region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),healthcare worker,1,no,Tashkent region,married,high school or lyceum,yes,no,no,no,no,yes,0
+F,3(29-40),other,2,yes,Bukhara region,married,college or above,yes,yes,no,no,no,no,0
+F,4(41-48),other,2,no,Namangan region,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),unemployed,4,yes,Surkhandarya region,divorced or widowed,high school or lyceum,yes,no,no,no,no,yes,0
+F,3(29-40),other,1,yes,Kashkadarya region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+F,2(18-28),healthcare worker,1,no,Samarkand region,married,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),other,1,yes,Republic of Karakalpakstan,married,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),healthcare worker,1,yes,Andijan region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),other,1,yes,Jizzakh region,unmarried,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,no,Tashkent region,married,college or above,yes,yes,no,no,no,yes,1
+F,3(29-40),other,1,yes,Syrdarya region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,1,yes,Syrdarya region,married,high school or lyceum,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,yes,Kashkadarya region,married,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),healthcare worker,1,yes,Tashkent region,cohabitation,college or above,yes,no,no,no,no,yes,0
+F,3(29-40),other,1,no,Jizzakh region,married,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,yes,Republic of Karakalpakstan,married,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,1,no,Andijan region,divorced or widowed,high school or lyceum,yes,no,no,no,no,no,0
+M,2(18-28),other,1,no,Tashkent region,married,college or above,yes,yes,no,no,no,no,0
+M,4(41-48),other,1,yes,Andijan region,married,high school or lyceum,yes,no,no,no,no,no,0
+M,3(29-40),healthcare worker,1,yes,Andijan region,married,high school or lyceum,no,no,no,no,no,yes,0
+M,2(18-28),unemployed,1,no,Samarkand region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,no,Andijan region,married,high school or lyceum,yes,no,no,no,no,yes,0
+M,2(18-28),other,1,yes,Andijan region,married,high school or lyceum,yes,no,no,no,no,yes,0
+M,5(49-55),healthcare worker,1,yes,Khorezm region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,no,Tashkent city,married,high school or lyceum,no,no,yes,no,no,yes,0
+F,3(29-40),other,1,no,Navoi region,unmarried,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,yes,Jizzakh region,married,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),healthcare worker,1,no,Kashkadarya region,married,high school or lyceum,yes,no,no,no,no,yes,0
+M,2(18-28),other,1,no,Surkhandarya region,married,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,yes,Surkhandarya region,married,college or above,yes,yes,no,no,no,no,0
+F,4(41-48),unemployed,1,no,Ferghana region,divorced or widowed,high school or lyceum,yes,no,no,no,yes,yes,0
+M,2(18-28),unemployed,1,no,Tashkent city,married,high school or lyceum,yes,yes,no,no,no,no,0
+F,2(18-28),other,1,yes,Tashkent region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,yes,Samarkand region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,yes,Syrdarya region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,yes,Tashkent region,married,high school or lyceum,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,yes,Ferghana region,married,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),healthcare worker,1,yes,Syrdarya region,married,middle school,yes,no,no,no,no,no,0
+M,3(29-40),healthcare worker,1,no,Tashkent region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,no,Namangan region,married,college or above,no,yes,no,no,no,yes,0
+M,3(29-40),other,1,no,Tashkent region,married,college or above,no,yes,no,no,no,yes,0
+F,2(18-28),healthcare worker,1,no,Tashkent region,married,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),healthcare worker,1,no,Tashkent city,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),sex worker,3,no,Jizzakh region,divorced or widowed,college or above,yes,yes,no,no,yes,no,0
+M,4(41-48),other,1,yes,Jizzakh region,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),healthcare worker,1,no,Syrdarya region,married,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,no,Tashkent city,married,high school or lyceum,yes,no,no,no,no,no,0
+F,2(18-28),other,1,no,Surkhandarya region,married,high school or lyceum,yes,no,yes,no,no,yes,0
+M,4(41-48),healthcare worker,1,yes,Samarkand region,cohabitation,college or above,yes,yes,no,no,no,yes,0
+F,3(29-40),unemployed,1,yes,Surkhandarya region,married,college or above,no,no,no,no,no,no,0
+M,2(18-28),other,1,no,Tashkent city,married,college or above,yes,no,no,no,no,yes,0
+F,4(41-48),other,2,yes,Navoi region,divorced or widowed,high school or lyceum,no,no,no,no,no,yes,0
+F,4(41-48),healthcare worker,1,yes,Bukhara region,divorced or widowed,college or above,yes,no,yes,yes,no,no,0
+M,2(18-28),sex worker,3,no,Tashkent region,married,high school or lyceum,no,yes,yes,no,yes,no,0
+F,2(18-28),other,1,yes,Kashkadarya region,married,high school or lyceum,no,no,no,no,no,no,0
+F,2(18-28),other,1,no,Andijan region,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),healthcare worker,1,yes,Syrdarya region,married,high school or lyceum,no,no,no,no,no,no,0
+M,4(41-48),other,1,no,Syrdarya region,unmarried,middle school,yes,no,no,no,no,no,0
+M,4(41-48),healthcare worker,1,yes,Navoi region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),unemployed,1,yes,Namangan region,married,college or above,yes,no,no,no,no,yes,0
+F,3(29-40),other,3,yes,Bukhara region,unmarried,high school or lyceum,yes,no,no,no,no,yes,0
+M,2(18-28),healthcare worker,1,no,Republic of Karakalpakstan,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,no,Andijan region,married,high school or lyceum,yes,no,yes,no,no,yes,0
+M,2(18-28),unemployed,2,yes,Syrdarya region,unmarried,high school or lyceum,no,no,no,no,no,yes,0
+M,2(18-28),other,1,no,Khorezm region,married,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),other,2,yes,Tashkent region,married,college or above,yes,no,yes,no,no,no,0
+F,3(29-40),unemployed,1,yes,Tashkent region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,1,no,Andijan region,married,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),sex worker,4,no,Samarkand region,married,high school or lyceum,yes,yes,no,yes,yes,yes,0
+F,4(41-48),other,2,yes,Bukhara region,married,college or above,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,no,Republic of Karakalpakstan,divorced or widowed,college or above,no,no,no,no,no,no,0
+F,1(15-17),other,1,no,Ferghana region,divorced or widowed,high school or lyceum,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,no,Navoi region,married,middle school,yes,yes,no,no,no,no,0
+F,2(18-28),other,1,yes,Tashkent city,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,no,Andijan region,married,primary school,yes,no,no,no,no,yes,0
+F,3(29-40),other,1,yes,Andijan region,married,college or above,yes,no,no,no,no,no,0
+F,2(18-28),healthcare worker,1,yes,Tashkent city,married,college or above,yes,yes,no,no,no,no,0
+M,4(41-48),other,1,yes,Khorezm region,married,high school or lyceum,yes,no,no,no,no,yes,0
+F,3(29-40),healthcare worker,1,no,Khorezm region,married,high school or lyceum,no,no,no,no,no,yes,0
+F,2(18-28),unemployed,1,no,Tashkent city,married,college or above,yes,yes,no,no,no,yes,0
+M,3(29-40),other,1,no,Tashkent city,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),other,1,yes,Khorezm region,cohabitation,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),other,1,yes,Khorezm region,married,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),healthcare worker,1,yes,Tashkent region,married,college or above,no,no,yes,no,no,no,0
+M,2(18-28),healthcare worker,1,no,Tashkent region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,1,no,Tashkent city,divorced or widowed,high school or lyceum,yes,yes,no,no,no,no,0
+M,2(18-28),other,1,no,Syrdarya region,divorced or widowed,college or above,yes,yes,no,no,no,yes,0
+M,2(18-28),other,1,yes,Tashkent city,married,high school or lyceum,no,no,no,no,no,no,0
+F,3(29-40),healthcare worker,1,no,Khorezm region,married,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),sex worker,4,yes,Tashkent city,divorced or widowed,college or above,yes,yes,no,no,yes,no,0
+F,2(18-28),other,1,no,Andijan region,married,college or above,yes,yes,no,no,no,yes,0
+F,3(29-40),healthcare worker,1,no,Andijan region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,no,Samarkand region,married,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),other,1,yes,Syrdarya region,married,college or above,yes,no,yes,no,no,yes,0
+F,2(18-28),unemployed,1,no,Bukhara region,married,college or above,yes,no,no,no,no,no,0
+F,4(41-48),healthcare worker,1,no,Tashkent region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),other,1,no,Republic of Karakalpakstan,married,high school or lyceum,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,yes,Ferghana region,married,college or above,no,no,yes,no,no,no,0
+F,2(18-28),other,1,yes,Khorezm region,married,college or above,yes,no,no,no,no,no,0
+F,4(41-48),other,1,yes,Tashkent region,married,college or above,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,no,Khorezm region,married,college or above,yes,no,yes,no,no,no,0
+F,3(29-40),other,1,no,Khorezm region,divorced or widowed,college or above,yes,no,yes,no,no,no,0
+F,3(29-40),sex worker,3,no,Tashkent region,married,high school or lyceum,yes,yes,no,no,yes,no,0
+M,2(18-28),healthcare worker,1,no,Jizzakh region,married,college or above,yes,no,no,no,no,no,0
+M,3(29-40),healthcare worker,1,no,Tashkent city,married,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),other,1,no,Syrdarya region,married,college or above,yes,no,no,no,no,no,0
+M,3(29-40),other,1,yes,Jizzakh region,married,middle school,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,no,Tashkent region,married,high school or lyceum,yes,no,no,no,no,yes,0
+M,2(18-28),other,1,no,Andijan region,married,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),unemployed,1,no,Syrdarya region,divorced or widowed,high school or lyceum,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,yes,Surkhandarya region,unmarried,college or above,yes,no,no,no,no,no,0
+F,2(18-28),healthcare worker,1,no,Tashkent city,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),sex worker,4,no,Tashkent city,divorced or widowed,high school or lyceum,yes,yes,no,yes,yes,yes,0
+M,2(18-28),healthcare worker,1,yes,Surkhandarya region,married,high school or lyceum,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,yes,Andijan region,married,college or above,yes,no,no,no,no,yes,0
+F,3(29-40),unemployed,1,no,Tashkent city,married,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,yes,Navoi region,divorced or widowed,college or above,yes,yes,no,no,no,no,1
+F,2(18-28),other,1,yes,Kashkadarya region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,yes,Syrdarya region,married,college or above,yes,no,no,no,no,no,0
+M,3(29-40),other,2,no,Surkhandarya region,married,college or above,yes,no,no,no,no,yes,0
+F,3(29-40),other,1,no,Jizzakh region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),unemployed,1,yes,Jizzakh region,divorced or widowed,college or above,no,yes,no,no,no,yes,0
+F,2(18-28),healthcare worker,1,no,Tashkent region,married,college or above,yes,yes,no,no,no,no,0
+M,3(29-40),other,1,yes,Syrdarya region,married,college or above,yes,no,no,no,no,no,1
+F,5(49-55),unemployed,1,yes,Khorezm region,married,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),healthcare worker,1,no,Navoi region,cohabitation,college or above,yes,no,no,no,no,no,0
+M,3(29-40),healthcare worker,1,yes,Khorezm region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,yes,Surkhandarya region,married,high school or lyceum,yes,no,no,no,no,no,0
+M,3(29-40),healthcare worker,1,yes,Syrdarya region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,no,Khorezm region,unmarried,high school or lyceum,yes,no,no,no,no,no,0
+M,3(29-40),unemployed,1,yes,Tashkent city,married,high school or lyceum,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,yes,Ferghana region,divorced or widowed,high school or lyceum,yes,no,no,no,no,no,0
+F,4(41-48),unemployed,1,yes,Syrdarya region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),other,1,yes,Bukhara region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),other,1,yes,Surkhandarya region,married,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),healthcare worker,1,yes,Namangan region,married,high school or lyceum,yes,no,no,no,no,no,0
+F,3(29-40),other,1,no,Samarkand region,married,college or above,yes,no,no,no,no,no,0
+F,2(18-28),sex worker,2,yes,Tashkent region,married,high school or lyceum,yes,yes,no,no,yes,no,0
+F,3(29-40),healthcare worker,1,yes,Tashkent city,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),healthcare worker,1,no,Andijan region,married,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),healthcare worker,1,yes,Tashkent city,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,yes,Ferghana region,married,college or above,yes,yes,no,no,no,yes,0
+M,3(29-40),healthcare worker,1,yes,Tashkent city,married,college or above,no,yes,no,no,no,no,0
+M,2(18-28),healthcare worker,1,no,Navoi region,married,college or above,yes,yes,no,no,no,no,0
+F,4(41-48),healthcare worker,1,no,Syrdarya region,divorced or widowed,high school or lyceum,yes,yes,no,no,no,no,0
+M,3(29-40),unemployed,1,yes,Andijan region,married,college or above,yes,yes,no,no,yes,no,0
+M,2(18-28),other,1,yes,Republic of Karakalpakstan,married,middle school,yes,no,no,no,no,yes,0
+M,3(29-40),unemployed,1,yes,Kashkadarya region,married,college or above,yes,no,no,no,no,yes,0
+M,4(41-48),other,1,yes,Bukhara region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+F,2(18-28),unemployed,1,no,Bukhara region,married,college or above,no,no,no,no,no,no,0
+M,2(18-28),unemployed,1,no,Tashkent region,married,college or above,yes,yes,no,no,no,yes,0
+M,3(29-40),healthcare worker,1,yes,Syrdarya region,married,college or above,yes,no,no,no,no,no,0
+F,2(18-28),healthcare worker,1,yes,Surkhandarya region,married,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),unemployed,1,no,Andijan region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,no,Tashkent city,unmarried,high school or lyceum,yes,yes,no,no,no,yes,0
+M,2(18-28),other,1,yes,Tashkent region,married,college or above,yes,yes,no,no,no,yes,0
+F,2(18-28),healthcare worker,1,no,Samarkand region,married,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,no,Tashkent city,divorced or widowed,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,yes,Surkhandarya region,married,middle school,yes,no,no,no,no,no,0
+F,2(18-28),unemployed,1,yes,Surkhandarya region,married,high school or lyceum,yes,yes,no,no,no,yes,0
+F,2(18-28),sex worker,3,yes,Bukhara region,divorced or widowed,college or above,yes,yes,no,no,yes,no,0
+M,2(18-28),other,1,no,Andijan region,married,college or above,yes,yes,no,no,no,no,0
+F,4(41-48),other,1,no,Tashkent city,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,no,Khorezm region,married,college or above,yes,no,no,no,no,yes,0
+F,3(29-40),healthcare worker,2,yes,Surkhandarya region,cohabitation,college or above,yes,no,no,no,no,no,0
+M,3(29-40),other,1,yes,Bukhara region,married,college or above,yes,yes,no,no,no,no,0
+M,3(29-40),other,1,yes,Khorezm region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),other,1,yes,Tashkent city,married,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,no,Khorezm region,married,college or above,yes,yes,no,no,no,yes,0
+M,3(29-40),healthcare worker,1,no,Andijan region,unmarried,high school or lyceum,yes,no,no,no,no,no,0
+M,3(29-40),healthcare worker,1,no,Andijan region,unmarried,college or above,yes,no,no,no,no,no,0
+F,2(18-28),sex worker,3,yes,Khorezm region,divorced or widowed,college or above,no,yes,no,yes,yes,no,1
+F,3(29-40),other,1,yes,Khorezm region,married,high school or lyceum,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,no,Syrdarya region,unmarried,middle school,yes,yes,no,no,no,yes,0
+M,2(18-28),healthcare worker,1,no,Bukhara region,married,high school or lyceum,yes,yes,no,no,no,yes,0
+M,2(18-28),unemployed,3,no,Syrdarya region,married,high school or lyceum,yes,no,no,no,no,no,0
+F,3(29-40),unemployed,1,yes,Tashkent region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),unemployed,1,yes,Ferghana region,married,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),other,1,no,Tashkent region,married,high school or lyceum,yes,no,no,no,no,no,0
+F,3(29-40),healthcare worker,1,yes,Andijan region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,5,no,Tashkent region,married,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,yes,Syrdarya region,married,high school or lyceum,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,no,Syrdarya region,married,college or above,yes,yes,no,no,no,no,0
+F,4(41-48),healthcare worker,1,yes,Ferghana region,married,college or above,no,no,no,no,no,no,0
+M,5(49-55),healthcare worker,1,yes,Syrdarya region,divorced or widowed,high school or lyceum,no,no,no,no,no,no,0
+M,3(29-40),healthcare worker,1,no,Navoi region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,yes,Tashkent region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),sex worker,3,yes,Ferghana region,married,college or above,yes,yes,no,no,yes,no,0
+F,2(18-28),other,1,no,Tashkent city,married,college or above,yes,no,no,no,no,no,0
+F,4(41-48),other,1,yes,Tashkent region,married,high school or lyceum,no,no,no,no,no,yes,0
+M,3(29-40),unemployed,1,yes,Khorezm region,married,middle school,yes,no,no,no,no,no,0
+F,3(29-40),healthcare worker,1,no,Tashkent region,married,high school or lyceum,yes,no,no,no,no,no,0
+F,4(41-48),other,1,yes,Khorezm region,married,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),other,1,yes,Samarkand region,married,college or above,yes,no,no,no,no,no,0
+F,4(41-48),other,1,yes,Bukhara region,married,college or above,no,yes,no,no,no,yes,0
+F,4(41-48),other,1,yes,Bukhara region,married,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),healthcare worker,1,no,Jizzakh region,married,college or above,yes,no,no,no,no,yes,0
+F,3(29-40),other,1,yes,Tashkent region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,yes,Tashkent region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,no,Tashkent region,married,college or above,yes,no,no,no,no,no,0
+M,3(29-40),healthcare worker,1,yes,Samarkand region,married,high school or lyceum,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,no,Syrdarya region,married,college or above,yes,yes,no,no,no,yes,0
+F,5(49-55),healthcare worker,1,yes,Tashkent region,married,college or above,yes,no,no,no,no,no,0
+M,3(29-40),other,1,no,Khorezm region,married,high school or lyceum,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,yes,Andijan region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),healthcare worker,1,no,Syrdarya region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),unemployed,2,no,Navoi region,married,college or above,no,no,no,no,no,yes,0
+F,3(29-40),other,1,yes,Ferghana region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,no,Tashkent city,married,college or above,yes,yes,no,no,no,yes,0
+M,2(18-28),sex worker,4,no,Syrdarya region,divorced or widowed,college or above,yes,no,no,no,yes,no,0
+M,2(18-28),healthcare worker,1,no,Andijan region,married,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,yes,Samarkand region,married,high school or lyceum,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,no,Tashkent city,divorced or widowed,high school or lyceum,no,yes,no,no,no,no,0
+M,3(29-40),unemployed,1,yes,Navoi region,married,college or above,yes,no,no,no,no,yes,0
+M,4(41-48),other,1,no,Andijan region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,no,Tashkent region,married,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,yes,Tashkent region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,yes,Jizzakh region,divorced or widowed,high school or lyceum,no,no,no,no,yes,no,0
+F,2(18-28),other,1,no,Andijan region,married,high school or lyceum,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,yes,Andijan region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),other,1,yes,Tashkent region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),other,1,yes,Namangan region,married,college or above,yes,no,no,no,no,yes,0
+F,3(29-40),other,1,yes,Tashkent city,divorced or widowed,college or above,no,no,no,no,no,yes,0
+F,2(18-28),healthcare worker,1,no,Samarkand region,married,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,no,Ferghana region,married,college or above,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,yes,Tashkent city,married,college or above,no,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,no,Jizzakh region,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+M,3(29-40),unemployed,1,yes,Surkhandarya region,divorced or widowed,high school or lyceum,yes,no,no,no,no,yes,0
+M,4(41-48),healthcare worker,1,yes,Navoi region,unmarried,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,yes,Andijan region,divorced or widowed,primary school,no,yes,no,no,no,no,0
+F,3(29-40),other,1,no,Khorezm region,married,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),healthcare worker,1,no,Syrdarya region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,no,Khorezm region,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),other,1,yes,Tashkent region,divorced or widowed,high school or lyceum,yes,no,no,no,no,yes,0
+M,3(29-40),healthcare worker,1,no,Jizzakh region,married,high school or lyceum,yes,no,no,no,no,no,0
+M,2(18-28),unemployed,1,yes,Syrdarya region,married,college or above,yes,yes,yes,no,no,no,0
+M,3(29-40),healthcare worker,1,yes,Tashkent region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),other,1,no,Surkhandarya region,married,college or above,yes,no,no,no,no,yes,0
+F,4(41-48),sex worker,4,no,Tashkent city,divorced or widowed,college or above,yes,yes,no,no,yes,no,0
+F,4(41-48),other,1,yes,Tashkent region,married,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),sex worker,3,yes,Tashkent city,married,college or above,no,yes,no,no,yes,no,0
+F,2(18-28),unemployed,1,no,Khorezm region,married,college or above,yes,no,no,no,no,no,0
+M,7(>66),healthcare worker,1,yes,Ferghana region,married,high school or lyceum,yes,no,yes,no,no,no,0
+M,2(18-28),other,1,yes,Tashkent region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),other,1,no,Ferghana region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),unemployed,1,yes,Andijan region,married,college or above,yes,yes,no,no,no,yes,0
+M,3(29-40),other,1,no,Ferghana region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),sex worker,3,yes,Tashkent region,married,high school or lyceum,yes,yes,no,no,yes,yes,0
+M,3(29-40),unemployed,1,no,Tashkent region,married,college or above,no,no,no,no,no,yes,0
+F,3(29-40),healthcare worker,1,yes,Kashkadarya region,married,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),other,1,no,Ferghana region,unmarried,high school or lyceum,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,no,Bukhara region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,3(29-40),healthcare worker,1,no,Samarkand region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),unemployed,1,no,Khorezm region,married,college or above,yes,no,no,no,yes,no,0
+F,2(18-28),healthcare worker,1,yes,Samarkand region,married,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,1,no,Samarkand region,married,college or above,yes,no,no,no,no,no,0
+F,4(41-48),other,1,no,Ferghana region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,yes,Surkhandarya region,divorced or widowed,high school or lyceum,yes,yes,no,no,no,no,0
+M,3(29-40),other,1,yes,Andijan region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,no,Namangan region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+F,3(29-40),unemployed,1,no,Ferghana region,divorced or widowed,college or above,no,yes,no,no,no,yes,0
+M,3(29-40),other,1,no,Tashkent city,unmarried,high school or lyceum,no,yes,no,no,no,no,0
+M,2(18-28),other,1,yes,Namangan region,married,college or above,yes,yes,no,no,no,no,0
+M,3(29-40),other,1,yes,Tashkent region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,no,Samarkand region,married,college or above,yes,yes,no,no,no,yes,0
+F,2(18-28),healthcare worker,1,yes,Bukhara region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),sex worker,3,yes,Navoi region,divorced or widowed,college or above,yes,yes,no,no,yes,yes,0
+F,2(18-28),other,1,no,Kashkadarya region,married,college or above,yes,yes,no,no,no,no,0
+M,3(29-40),healthcare worker,2,yes,Syrdarya region,married,college or above,no,yes,no,no,no,no,0
+F,3(29-40),other,1,no,Bukhara region,married,college or above,yes,yes,no,yes,no,yes,0
+F,2(18-28),other,1,yes,Jizzakh region,divorced or widowed,high school or lyceum,yes,no,no,no,no,no,0
+M,3(29-40),other,1,yes,Andijan region,married,college or above,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,yes,Kashkadarya region,divorced or widowed,high school or lyceum,yes,no,no,no,no,yes,0
+M,2(18-28),other,1,yes,Tashkent region,married,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),other,1,no,Tashkent city,married,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,yes,Khorezm region,divorced or widowed,college or above,yes,yes,no,no,no,yes,0
+M,2(18-28),other,1,yes,Navoi region,divorced or widowed,college or above,no,no,no,no,no,yes,0
+F,2(18-28),healthcare worker,1,no,Samarkand region,married,high school or lyceum,yes,no,no,no,no,no,0
+M,3(29-40),other,1,yes,Tashkent city,married,college or above,yes,no,no,no,no,no,1
+M,2(18-28),healthcare worker,1,yes,Tashkent city,divorced or widowed,college or above,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,yes,Andijan region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),healthcare worker,1,yes,Andijan region,married,college or above,yes,yes,no,no,no,yes,0
+M,2(18-28),other,1,no,Tashkent region,married,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,1,no,Andijan region,cohabitation,high school or lyceum,yes,no,no,no,no,no,0
+M,2(18-28),other,1,yes,Samarkand region,married,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,no,Samarkand region,married,middle school,no,no,no,no,no,yes,0
+F,2(18-28),other,1,yes,Khorezm region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,yes,Republic of Karakalpakstan,married,high school or lyceum,yes,no,no,no,no,no,0
+M,2(18-28),other,1,yes,Surkhandarya region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,1,yes,Syrdarya region,cohabitation,high school or lyceum,yes,no,no,no,no,no,0
+F,3(29-40),healthcare worker,1,yes,Namangan region,divorced or widowed,high school or lyceum,yes,no,no,no,no,yes,0
+F,3(29-40),other,1,no,Andijan region,married,college or above,yes,yes,no,no,no,no,0
+M,4(41-48),other,1,yes,Tashkent region,married,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,1,no,Tashkent city,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,no,Syrdarya region,married,college or above,yes,yes,no,no,no,yes,0
+F,3(29-40),other,1,no,Khorezm region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,3(29-40),other,1,no,Bukhara region,divorced or widowed,college or above,yes,yes,no,no,no,yes,0
+M,3(29-40),other,1,no,Kashkadarya region,married,high school or lyceum,yes,yes,no,yes,no,yes,0
+M,2(18-28),other,1,no,Khorezm region,married,college or above,yes,yes,no,no,no,yes,0
+F,4(41-48),other,1,no,Andijan region,married,high school or lyceum,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,yes,Tashkent city,married,high school or lyceum,yes,no,no,no,no,no,0
+M,2(18-28),other,1,yes,Bukhara region,married,college or above,yes,yes,yes,no,no,no,0
+F,3(29-40),other,1,yes,Tashkent region,married,college or above,yes,yes,no,no,yes,yes,0
+M,2(18-28),other,1,no,Ferghana region,married,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,yes,Khorezm region,married,college or above,yes,no,no,no,no,yes,0
+F,3(29-40),healthcare worker,1,no,Tashkent region,married,college or above,yes,yes,no,no,no,yes,0
+F,3(29-40),healthcare worker,1,no,Republic of Karakalpakstan,married,high school or lyceum,yes,yes,no,no,no,yes,0
+M,2(18-28),healthcare worker,1,yes,Tashkent region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+F,3(29-40),sex worker,4,no,Andijan region,married,college or above,yes,yes,no,yes,yes,no,0
+M,2(18-28),unemployed,1,no,Tashkent city,divorced or widowed,high school or lyceum,yes,no,no,no,no,no,0
+F,2(18-28),unemployed,1,no,Samarkand region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,yes,Khorezm region,cohabitation,college or above,yes,no,no,no,no,no,0
+M,3(29-40),other,1,no,Tashkent city,married,college or above,yes,no,no,no,no,yes,0
+F,4(41-48),healthcare worker,1,yes,Tashkent city,married,college or above,yes,no,no,no,no,no,0
+M,3(29-40),healthcare worker,1,no,Tashkent city,married,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,no,Tashkent city,divorced or widowed,college or above,no,no,no,no,no,yes,0
+M,3(29-40),other,1,yes,Tashkent city,married,college or above,yes,no,no,no,no,no,0
+M,3(29-40),healthcare worker,1,no,Tashkent city,married,high school or lyceum,yes,no,yes,yes,no,yes,0
+M,3(29-40),other,1,yes,Tashkent region,divorced or widowed,high school or lyceum,yes,no,no,no,no,no,0
+F,3(29-40),unemployed,1,yes,Bukhara region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,yes,Ferghana region,married,college or above,yes,yes,no,no,no,no,0
+M,3(29-40),unemployed,1,no,Jizzakh region,divorced or widowed,high school or lyceum,yes,no,yes,no,no,no,0
+F,5(49-55),unemployed,3,no,Tashkent region,married,college or above,yes,yes,no,no,no,yes,0
+M,3(29-40),other,1,no,Khorezm region,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+M,3(29-40),other,1,no,Tashkent city,divorced or widowed,high school or lyceum,yes,yes,no,no,no,no,0
+F,4(41-48),healthcare worker,1,yes,Kashkadarya region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+F,3(29-40),sex worker,3,no,Andijan region,married,college or above,yes,yes,no,no,yes,yes,0
+F,3(29-40),other,1,no,Tashkent city,married,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),other,1,no,Namangan region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),healthcare worker,1,yes,Surkhandarya region,married,high school or lyceum,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,no,Bukhara region,married,college or above,yes,yes,no,no,no,no,1
+F,3(29-40),sex worker,3,no,Jizzakh region,divorced or widowed,college or above,yes,yes,no,no,yes,yes,0
+F,4(41-48),other,1,yes,Tashkent region,married,college or above,yes,no,yes,no,no,no,0
+F,2(18-28),sex worker,4,yes,Syrdarya region,married,high school or lyceum,yes,yes,no,no,yes,no,0
+M,3(29-40),other,1,yes,Ferghana region,married,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),other,2,no,Tashkent region,unmarried,college or above,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,yes,Syrdarya region,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),other,1,yes,Ferghana region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,yes,Syrdarya region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),unemployed,1,yes,Khorezm region,married,middle school,yes,yes,no,no,no,yes,0
+M,3(29-40),other,1,no,Khorezm region,married,high school or lyceum,yes,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,no,Andijan region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),other,1,no,Samarkand region,divorced or widowed,middle school,yes,no,no,no,no,no,0
+F,3(29-40),other,1,yes,Tashkent city,divorced or widowed,college or above,yes,no,yes,no,no,no,0
+F,2(18-28),healthcare worker,1,yes,Andijan region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,yes,Surkhandarya region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,no,Khorezm region,married,college or above,yes,no,no,no,no,no,1
+M,2(18-28),other,1,yes,Andijan region,divorced or widowed,high school or lyceum,yes,no,no,no,no,no,0
+M,5(49-55),other,1,yes,Khorezm region,married,college or above,yes,no,no,no,no,no,0
+M,3(29-40),other,1,yes,Jizzakh region,married,college or above,yes,no,no,no,no,yes,0
+F,3(29-40),healthcare worker,1,yes,Samarkand region,divorced or widowed,college or above,yes,no,no,yes,no,yes,0
+M,4(41-48),other,1,yes,Syrdarya region,married,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,yes,Surkhandarya region,unmarried,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),healthcare worker,1,yes,Tashkent region,married,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,yes,Samarkand region,married,high school or lyceum,yes,yes,no,no,no,no,0
+M,3(29-40),healthcare worker,1,no,Ferghana region,married,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),other,1,yes,Tashkent region,married,college or above,yes,yes,no,no,no,yes,0
+M,2(18-28),sex worker,3,no,Khorezm region,divorced or widowed,college or above,yes,yes,no,no,yes,no,0
+M,2(18-28),other,1,no,Samarkand region,married,high school or lyceum,yes,yes,no,no,no,no,0
+F,4(41-48),other,1,yes,Surkhandarya region,married,college or above,yes,no,no,no,no,yes,0
+M,4(41-48),other,1,yes,Tashkent city,married,college or above,yes,no,no,no,no,no,0
+F,2(18-28),other,1,no,Tashkent city,unmarried,high school or lyceum,yes,no,no,no,no,no,0
+M,2(18-28),sex worker,3,no,Syrdarya region,married,college or above,no,yes,no,yes,yes,no,0
+F,2(18-28),other,1,yes,Andijan region,married,college or above,yes,yes,no,no,no,yes,0
+M,3(29-40),sex worker,2,no,Samarkand region,married,college or above,yes,yes,no,no,yes,no,0
+M,2(18-28),healthcare worker,1,no,Tashkent city,married,college or above,yes,yes,no,no,no,yes,0
+F,5(49-55),other,1,no,Khorezm region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+F,3(29-40),healthcare worker,1,no,Samarkand region,married,high school or lyceum,yes,no,no,no,yes,yes,0
+M,2(18-28),other,1,yes,Andijan region,married,college or above,yes,yes,no,no,no,yes,0
+F,3(29-40),other,1,yes,Republic of Karakalpakstan,married,college or above,yes,yes,yes,no,no,yes,0
+M,2(18-28),other,1,no,Khorezm region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),healthcare worker,1,yes,Surkhandarya region,married,high school or lyceum,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,yes,Namangan region,married,college or above,yes,no,no,no,no,no,0
+M,3(29-40),other,1,no,Ferghana region,married,college or above,no,no,no,no,no,yes,0
+F,3(29-40),other,1,no,Syrdarya region,divorced or widowed,high school or lyceum,yes,no,no,no,no,no,1
+M,4(41-48),other,1,no,Surkhandarya region,divorced or widowed,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),other,1,yes,Andijan region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),other,1,yes,Jizzakh region,married,high school or lyceum,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,no,Syrdarya region,divorced or widowed,middle school,yes,no,no,no,no,no,0
+F,3(29-40),sex worker,2,yes,Ferghana region,divorced or widowed,college or above,yes,yes,yes,yes,yes,no,1
+F,3(29-40),other,1,no,Jizzakh region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,yes,Samarkand region,married,college or above,yes,yes,no,no,no,no,0
+M,4(41-48),other,1,yes,Andijan region,married,college or above,yes,yes,no,no,no,no,0
+M,3(29-40),healthcare worker,1,no,Syrdarya region,married,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),other,1,no,Tashkent city,married,high school or lyceum,yes,yes,no,no,no,yes,0
+M,4(41-48),other,1,yes,Ferghana region,married,college or above,no,no,no,no,no,yes,0
+M,3(29-40),unemployed,1,no,Surkhandarya region,married,college or above,yes,yes,no,no,no,yes,0
+M,2(18-28),other,1,yes,Navoi region,married,middle school,yes,no,no,no,no,no,0
+M,2(18-28),unemployed,1,no,Tashkent region,married,high school or lyceum,yes,yes,no,no,no,no,0
+M,2(18-28),other,1,no,Ferghana region,married,high school or lyceum,yes,yes,no,no,no,no,0
+M,3(29-40),healthcare worker,1,yes,Tashkent region,unmarried,college or above,yes,yes,no,no,no,yes,0
+F,3(29-40),unemployed,1,yes,Republic of Karakalpakstan,married,college or above,yes,no,no,no,no,yes,0
+M,3(29-40),healthcare worker,1,yes,Tashkent region,divorced or widowed,college or above,yes,yes,no,no,no,yes,0
+F,3(29-40),healthcare worker,1,yes,Andijan region,married,college or above,yes,no,no,no,no,yes,0
+M,5(49-55),other,1,no,Samarkand region,married,middle school,no,no,no,no,no,no,0
+M,3(29-40),healthcare worker,1,yes,Syrdarya region,married,college or above,yes,no,yes,no,no,no,0
+F,2(18-28),other,1,yes,Republic of Karakalpakstan,married,college or above,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,yes,Ferghana region,married,college or above,yes,no,no,no,no,no,0
+M,2(18-28),sex worker,3,yes,Samarkand region,divorced or widowed,college or above,yes,yes,no,yes,yes,no,0
+M,5(49-55),other,1,no,Tashkent region,married,college or above,no,no,no,no,no,no,0
+M,2(18-28),other,1,yes,Khorezm region,married,high school or lyceum,yes,yes,no,no,no,yes,0
+F,2(18-28),healthcare worker,1,yes,Andijan region,married,college or above,yes,yes,no,no,no,yes,0
+F,2(18-28),other,1,no,Syrdarya region,married,middle school,yes,no,no,no,no,no,0
+M,4(41-48),other,3,no,Tashkent region,divorced or widowed,high school or lyceum,no,yes,no,no,no,no,0
+F,2(18-28),other,1,no,Andijan region,married,college or above,yes,no,no,no,no,no,0
+F,3(29-40),other,1,no,Tashkent city,married,college or above,yes,yes,no,no,no,no,0
+M,5(49-55),other,1,yes,Andijan region,married,high school or lyceum,yes,no,no,no,no,no,0
+M,3(29-40),healthcare worker,5,no,Tashkent region,divorced or widowed,college or above,yes,yes,no,no,no,no,1
+F,2(18-28),healthcare worker,1,no,Kashkadarya region,married,college or above,no,no,no,no,no,no,0
+M,3(29-40),other,1,yes,Ferghana region,divorced or widowed,college or above,yes,no,no,no,no,no,0
+M,2(18-28),healthcare worker,1,yes,Tashkent region,married,college or above,yes,yes,no,no,no,yes,0
+F,4(41-48),other,1,no,Syrdarya region,divorced or widowed,college or above,no,no,no,no,no,yes,0
+F,2(18-28),unemployed,1,no,Samarkand region,married,college or above,yes,yes,no,no,no,yes,0
+F,4(41-48),other,1,yes,Khorezm region,married,college or above,yes,yes,no,no,no,yes,0
+F,2(18-28),unemployed,1,yes,Tashkent city,divorced or widowed,college or above,yes,yes,no,no,no,no,0
+M,2(18-28),other,1,no,Khorezm region,married,college or above,yes,no,no,no,no,no,0
+F,4(41-48),sex worker,4,no,Khorezm region,divorced or widowed,high school or lyceum,no,yes,yes,no,yes,no,0
+M,3(29-40),other,1,no,Surkhandarya region,married,college or above,yes,no,no,no,no,yes,0
+M,2(18-28),other,1,no,Samarkand region,married,college or above,yes,yes,no,no,no,yes,0
+M,2(18-28),other,1,no,Samarkand region,married,college or above,yes,yes,no,no,no,yes,0
+F,2(18-28),healthcare worker,1,no,Navoi region,married,high school or lyceum,yes,yes,no,no,no,no,0
+F,3(29-40),other,1,yes,Surkhandarya region,married,college or above,yes,yes,no,no,no,no,0
+F,2(18-28),healthcare worker,1,yes,Tashkent city,unmarried,college or above,yes,no,no,no,no,no,0
+M,3(29-40),other,1,no,Andijan region,cohabitation,college or above,yes,no,no,no,no,yes,0
+F,2(18-28),unemployed,1,no,Tashkent city,divorced or widowed,high school or lyceum,yes,no,no,no,no,no,0
+M,3(29-40),other,2,no,Tashkent city,cohabitation,college or above,yes,no,no,no,no,no,0

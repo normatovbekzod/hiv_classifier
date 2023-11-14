@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Machine Learning Prediction</title>
+</head>
+
+<body bgcolor="deepskyblue">
+
+    <center>
+
+    <h1> HIV test survey</h1>
+
+    <h2> Take a quick survey to check if you need to get tested for HIV</h2> 
+
+    <form action="{{url_for('predict')}}" method="post">
+        <b><label for="question1">Question 1. Choose your gender: </label>
+        <select id="question1" name="gender">
+            <option value="1">Male</option>
+            <option value="0">Female</option>
+            <!-- Add more options as needed -->
+        </select>
+        <br><br>
+
+        <!-- Repeat the structure for each question -->
+        
+        <label for="question2">Question 2. Choose your age range: </label>
+        <select id="question2" name="age">
+            <option value="1(15-17)">15-17</option>
+            <option value="2(18-28)">18-28</option>
+            <option value="3(29-40)">29-40</option>
+            <option value="4(41-48)">41-48</option>
+            <option value="5(49-55)">49-55</option>
+            <option value="6(56-65)">56-65</option>
+            <option value="7(>66)">66+</option>     
+            <!-- Add more options as needed -->
+            </select>
+        <br><br>
+    
+        <label for="question3">Question 3. Choose your occupation type: </label>
+        <select id="question3" name="occupation">
+            <option value="healthcare worker">I work in healthcare</option>
+            <option value="sex worker">I am a sex industry worker</option>
+            <option value="unemployed">I am unemployed</option>
+            <option value="other">None of the above</option>    
+            <!-- Add more options as needed -->
+            </select>
+        <br><br>
+
+        <label for="question4">Question 4. Did you have penetrative sex within the last month: </label>
+        <select id="question4" name="sex_last_month">
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+            <!-- Add more options as needed -->
+        </select>
+        <br><br>
+
+        <label for="question5">Question 5. If you had penetrative sex within the last month, did you use condom: </label>
+        <select id="question5" name="condom_use_last_month">
+            <option value="1">Yes</option>
+            <option value="0">No</option>     
+            <!-- Add more options as needed -->
+            </select>
+        <br><br>
+
+        <label for="question6">Question 6. Where do you currently live: </label>
+        <select id="question6" name="location">
+            <option value="Republic of Karakalpakstan">Republic of Karakalpakstan</option>
+            <option value="Andijan region">Andijan region</option>
+            <option value="Bukhara region">Bukhara region</option>
+            <option value="Jizzakh region">Jizzakh region</option>
+            <option value="Kashkadarya region">Kashkadarya region</option>
+            <option value="Navoi region">Navoi region</option>
+            <option value="Namangan region">Namangan region</option> 
+            <option value="Samarkand region">Samarkand region</option>
+            <option value="Surkhandarya region">Surkhandarya region</option>
+            <option value="Syrdarya region">Syrdarya region</option>
+            <option value="Tashkent region">Tashkent region</option>
+            <option value="Ferghana region">Ferghana region</option>
+            <option value="Khorezm region">Khorezm region</option>
+            <option value="Tashkent city">Tashkent city</option>    
+            <!-- Add more options as needed -->
+            </select>
+        <br><br>
+
+        <label for="question7">Question 7. What is your marital status: </label>
+        <select id="question7" name="marital_status">
+            <option value="married">Married</option>
+            <option value="cohabitation">Cohabitation</option>
+            <option value="unmarried">Single</option>
+            <option value="divorced or widowed">Divorced or widowed</option>    
+            <!-- Add more options as needed -->
+            </select>
+        <br><br>
+
+        <label for="question8">Question 8. What is your highest level of education: </label>
+        <select id="question8" name="educational_level">
+            <option value="college or above">College or above</option>
+            <option value="high school or lyceum">High school or lyceum</option>
+            <option value="middle school">Middle school</option>
+            <option value="primary school">Primary school</option>
+            <option value="Illiterate">Illiterate</option>    
+            <!-- Add more options as needed -->
+            </select>
+        <br><br>
+
+        <label for="question9">Question 9. Do you know about HIV ways of transmission AND preventation: </label>
+        <select id="question9" name="awareness_of_hiv">
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+            <!-- Add more options as needed -->
+        </select>
+        <br><br>
+
+        <label for="question10">Question 10. What is your partner count: </label>
+        <select id="question10" name="partner_count">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5+</option>    
+            <!-- Add more options as needed -->
+            </select>
+        <br><br>
+
+        <label for="question11">Question 11. Have you used any injective drugs within the last year: </label>
+        <select id="question11" name="drug_use">
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+            <!-- Add more options as needed -->
+        </select>
+        <br><br>
+
+        <label for="question12">Question 12. Have you been tested positive for any STDs within the last last year: </label>
+        <select id="question12" name="std_last_year">
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+            <!-- Add more options as needed -->
+        </select>
+        <br><br>
+
+        <label for="question13">Question 13. Have you had sex with a commercial partner within the last year: </label>
+        <select id="question13" name="commercial_sex_last_year">
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+            <!-- Add more options as needed -->
+        </select>
+        <br><br>
+
+        <label for="question14">Question 14. Have you taken an HIV test within the last year: </label>
+        <select id="question14" name="hiv_test_last_year">
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+            <!-- Add more options as needed -->
+        </select>
+        <br><br>
+
+        
+    </b>
+
+        <!-- Repeat this block for all 14 questions -->
+
+        <input type="submit" value="Submit">
+    </form>
+    <h3><br> {{prediction_text}}</h3>
+
+</center>
+</body>
+</html>
